@@ -39,6 +39,6 @@
     10. [https://www.udemy.com/course/uncle-rats-bug-bounty-guide/learn/lecture/25572642?start=0#overview](https://www.udemy.com/course/uncle-rats-bug-bounty-guide/learn/lecture/25572642?start=0#overview)
     11. [https://app.pluralsight.com/paths/skill/ethical-hacking-fundamentals](https://app.pluralsight.com/paths/skill/ethical-hacking-fundamentals)
   
-  
+  <?php    ?>
   </body>
     </html>
