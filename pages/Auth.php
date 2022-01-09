@@ -4,7 +4,7 @@
 <head>
   <title> Auth && Session-Testing </title>
       <meta name="color-scheme" content="dark light">
-  <head>
+  </head>
 
 <body>
   
